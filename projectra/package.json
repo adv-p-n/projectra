@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.9.0",
+    "@clerk/nextjs": "^6.9.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "express": "^4.21.2",
@@ -23,6 +23,9 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.1",
+    "daisyui": "^4.12.22",
     "eslint": "^9",
     "eslint-config-next": "15.1.0",
     "postcss": "^8",
